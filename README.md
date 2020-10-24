@@ -1,2 +1,2 @@
 # outcomesanalysis
-Achieving Outcomes as a Business Analyst
+Achieving outcomes as a Business Analyst
