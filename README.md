@@ -1,4 +1,5 @@
-# outcomesanalysis
+# Outcome Analysis 
+
 Achieving outcomes as a Business Analyst
 
 Context
