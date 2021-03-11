@@ -1,6 +1,6 @@
 # Outcome Analysis 
 
-Achieving outcomes as a Business Analyst
+Achieving outcomes in the context of Business. 
 
 Context
 
