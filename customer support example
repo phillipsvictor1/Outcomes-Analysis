@@ -1,0 +1,53 @@
+Example :: Customer Support
+
+
+The manager of a customer support department requested a dashboard to show metrics related to open tickets to support agents. The intention was to give agents visibility into metrics and trends related to aging tickets so they could better prioritize their work in order to prevent SLA breaches that cause financial loss for the organization.
+ 
+Create a list of outcome statements for this project.
+Pretend you are the BA having to explain to the manager why the proposed dashboard would not be the best solution to deliver the main desired outcome. Make sure to clearly describe the misalignment between stated outcomes and proposed solution
+
+The desired outcome for agents: 
+
+(Short term). Minimize the lack of visibility into metrics and trends related to aging tickets
+
+(Long term) Increase ability for agents to prioritize their tasks
+
+(Long-term) Minimize financial loss from SLA breaches
+
+
+Once the mask was implemented, the number of SLA breaches did not decrease. Agents had a shift in priorities, towards observation of metrics and trends.
+
+When we put this into practice with the concept of build, measure and learn we noticed that the process could be made more efficient.
+
+It was discovered that task lists were prioritized based on risk of tickets. In turn,  missing an SLA had a larger impact in reducing SLA breaches. 
+
+The process was streamlined because agents were not monitoring stats to prioritize work. 
+
+A process improvement took place when agents began moving to the next high-priority ticket. 
+
+With an iterative approach of building an MVP, testing, measuring and getting feedback the process was improved. 
+
+And this increased efficiency.
+
+Our outcome statements may be incomplete. Let’s consider additional outcomes. 
+
+(Short term) Minimize risk and SLA breaches to a greater extent by grouping task lists in different ways.
+(Short term) Minimize financial loss by assigning experts in a specific area to specific types of tasks
+(Long term) Minimize risk with the use of predictive analytics of trending events over time
+(Long term) Minimize agent error with a set process for handling tickets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
