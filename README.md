@@ -1,6 +1,6 @@
 Outcomes Analysis is used in a variety of ways including: 
 
-Creating solid outcome statements for your project brings many positive effects: 
+creating solid outcome statements for your project brings many positive effects: 
 
 Better planning: Outcome statements increase our visibility into the link between project tasks, outputs, and the desired beneficial effects. Identifying the full set of tasks and outputs that will  lead to project success gets easier, which facilitates better planning. 
 
